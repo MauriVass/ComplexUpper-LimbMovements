@@ -10,11 +10,11 @@ The csv data files contain four columns. The data in the first column is the tim
 Actions: ['BostonCA', 'BostonCU', 'HarvardCA', 'HarvardCU', 'Can', 'Circle', 'Ellipse', 'Flower', 'Spiral', 'SuperMegaCloud', 'Triangle', 'Planned', 'Unplanned', 'Randomness'] 
 
 ## Dataset Visualization
-Some action visualization:
+Some actions visualized:
 ![alt text](Images/can.png)
 ![alt text](Images/circle.png)
 ![alt text](Images/planned.png)
-Classes Distribution
+Classes Distribution:
 ![alt text](Images/actionsDistr.png)
 
 ## Preprocessing
