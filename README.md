@@ -14,8 +14,6 @@ Some actions visualized:
 ![alt text](Images/can.png)
 ![alt text](Images/circle.png)
 ![alt text](Images/planned.png)
-Classes Distribution:
-![alt text](Images/actionsDistr.png)
 
 ## Preprocessing
 The dataset is divided in windows of lenght TIME_STEPS and with a step of lenght STEP. 
